@@ -1,4 +1,4 @@
-const axios = require('axios');
+import axios from 'axios';
 
 let accessToken = null;
 let tokenTimestamp = null;
